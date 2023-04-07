@@ -1,0 +1,45 @@
+body{
+    background-image: url("../imagenes/fondoBuscar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#boton{
+    inline-size: 3vh;
+}
+
+.container__for{
+    background-color: #0a1e35;
+    border-radius: 5vh;
+    opacity: 0.85;
+}
+
+img{
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+}
+
+
+input{
+    display: block;
+    width: 50vh;
+    height: 5vh;
+    margin-bottom: 10vh;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+
+#google{
+    width: 4vh;
+    height: 4vh;
+}
+
+#facebook{
+    width: 5vh;
+    height: 5vh;
+}
